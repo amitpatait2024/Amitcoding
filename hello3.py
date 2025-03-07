@@ -1,2 +1,2 @@
 
-print("Hello toh chaliye shuru karte hai bina kisi bakchodi ke") 
+print("Hello toh chaliye shuru karte hai bina kisi battimezi ke") 
